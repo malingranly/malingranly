@@ -1,2 +1,1 @@
-### Malin Olsen Granly
-🌙 Frontend-developer
+🌙  Frontend-developer
